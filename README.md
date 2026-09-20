@@ -164,19 +164,19 @@ dotnet test AgvDispatch.slnx
 > 截图位于 [`Image/`](Image/) 目录。
 
 ### 调度中心 · 实时地图
-![调度中心实时地图](Image/master-map.png)
+![调度中心实时地图](Image/实时地图.png)
 
 ### 调度中心 · 订单编辑与下发
-![订单编辑](Image/master-order.png)
+![订单编辑](Image/订单编辑.png)
 
 ### 调度中心 · MQTT 报文监控
-![报文监控](Image/master-monitor.png)
+![报文监控](Image/报文监控.png)
 
-### 调度中心 · SQLite 任务记录
-![任务记录](Image/master-tasks.png)
+### 调度中心 · SQLite 任务监控
+![任务监控](Image/任务监控.png)
 
 ### AGV 模拟器 · 实时路径与事件流
-![模拟器实时地图](Image/simulator-map.png)
+![模拟器实时地图](Image/模拟器.png)
 
 ---
 
