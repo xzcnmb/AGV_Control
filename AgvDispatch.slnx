@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgvDispatch.MasterControl/AgvDispatch.MasterControl.csproj" />
+    <Project Path="src/AgvDispatch.Simulator/AgvDispatch.Simulator.csproj" />
+    <Project Path="src/AgvDispatch.Vda5050/AgvDispatch.Vda5050.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AgvDispatch.Tests/AgvDispatch.Tests.csproj" />
+  </Folder>
+</Solution>
